@@ -12,3 +12,7 @@ Liste ordonné :
 -élément 1
 -élément 2
 -élément 3
+
+Mettre un élément en **gras**
+
+Mettre un élément en **italique*
