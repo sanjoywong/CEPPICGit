@@ -3,6 +3,7 @@
 ### Nous sommes le 11 mai 2022
 CEPPIC - Exercice Git
 
+Liste non-ordonnée :
 -élément 1
 -élément 2
 -élément 3
