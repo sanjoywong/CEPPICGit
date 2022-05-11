@@ -4,15 +4,15 @@
 CEPPIC - Exercice Git
 
 Liste non-ordonnée :
--élément 1
--élément 2
--élément 3
+- élément 1
+- élément 2
+- élément 3
 
 Liste ordonné :
 
--élément 1
--élément 2
--élément 3
+1. élément 1
+2. élément 2
+3. élément 3
 
 Mettre un élément en **gras**
 
